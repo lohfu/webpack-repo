@@ -1,0 +1,20 @@
+{
+  "name": "webpack-repo",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack"
+  },
+  "author": "Linus Miller <lohfu@lohfu.io> (https://lohfu.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "lowline": "^0.2.1",
+    "rek": "^0.3.8"
+  },
+  "devDependencies": {
+    "webpack": "^4.6.0",
+    "webpack-cli": "^2.0.15"
+  }
+}
